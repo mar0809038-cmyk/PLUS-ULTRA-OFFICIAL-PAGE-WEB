@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+h1 {
+  color:  whitesmoke;
+  font-family:Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"
+}
+
+p {font-family:"Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+font-size: 15px}
+
+p {color:whitesmoke}
+
+h2 {color: greenyellow;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"}
+
+h3 {color: whitesmoke;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"}
+
+h4 {color:black;
+font-family: Consolas, "Andale Mono", "Lucida Console", "Lucida Sans Typewriter", Monaco, "Courier New", "monospace"}
+div {
+  margin: 5px 5px 5px 5px;
+background-color: black
+}
+tr {background-color: greenyellow
+}
+Button {background-color: greenyellow;
+font-size: 60;
+margin-left: 50px;
+margin-right: 50px;
+	margin-bottom: 50px;
+}
